@@ -1,7 +1,6 @@
 # Social Media App
 
-Một [trang mạng xã hội](https://ie213-social-media-app.onrender.com/) xây dựng bằng `React.js` và `Tailwind CSS` với các chức năng cơ bản như đăng nhập, kết bạn, đăng bài viết và bình luận; truy vấn dữ liệu từ [máy chủ Node.js/Express](https://github.com/minhlong149/social-media-server) và cơ sở dữ liệu `MongoDB`. *Đây là đồ án môn học Kỹ thuật phát triển hệ thống Web của nhóm sinh viên trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM*.
-
+Một [trang mạng xã hội](https://ie213-social-media-app.onrender.com/) xây dựng bằng `React.js` và `Tailwind CSS` với các chức năng cơ bản như đăng nhập, kết bạn, đăng bài viết và bình luận; truy vấn dữ liệu từ [máy chủ Node.js/Express]
 - [Social Media App](#social-media-app)
   - [Yêu cầu chức năng](#yêu-cầu-chức-năng)
   - [Thiết kế giao diện](#thiết-kế-giao-diện)
@@ -48,12 +47,3 @@ Một [trang mạng xã hội](https://ie213-social-media-app.onrender.com/) xâ
 
 > Nếu không có nhu cầu sử dụng chức năng thông báo theo thời gian thực, có thể build và deploy các static file trong thư mục `dist` sau khi chạy lệnh `npm run build`.
 
-## Tác giả
-
-- [Nguyễn Đào Minh Long](https://github.com/minhlong149) - Gửi nhận thông báo theo thời gian thực
-- [Trần Trọng Nguyên](https://github.com/Norman-Tran) - Tạo tài khoản mới và đăng nhập
-- [Quách Kiều Oanh](https://github.com/Qanh195) - Hiển thị và lọc danh sách các bài viết trên trang chủ
-- [Lưu Chí Thịnh](https://github.com/Thinh446274) - Tìm kiếm bài viết và người dùng
-- [Lương Phúc Vinh](https://github.com/vinhlp02) - Quản lý trang thông tin cá nhân
-- [Mai Ngọc Bích](https://github.com/bichmn) - Tạo bài viết mới
-- [Lê Nguyễn Bá Duy](https://github.com/ZuyLeLe) - Quản lý danh sách bạn bè và lời mời kết bạn
